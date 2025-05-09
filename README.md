@@ -1,4 +1,4 @@
-# 🌌 Wormhole Tunnel =
+# 🌌 Wormhole Tunnel
 
 > A stylized 3D tunnel flythrough built with Three.js, showcasing spline-based camera motion, custom geometry, and bloom effects.
 
@@ -16,7 +16,7 @@ This demo runs in modern browsers without a build system.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourname/wormhole-demo.git
+git clone https://github.com/suzubu/wormhole-demo.git
 
 # 2. Navigate to the project folder
 cd wormhole-demo
