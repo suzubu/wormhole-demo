@@ -18,10 +18,7 @@ This demo runs in modern browsers without a build system.
 # 1. Clone the repo
 git clone https://github.com/suzubu/wormhole-demo.git
 
-# 2. Navigate to the project folder
-cd wormhole-demo
-
-# 3. Open in browser (no build needed)
+# 2. Open in browser (no build needed)
 open index.html  # or use VSCode Live Server
 ```
 
