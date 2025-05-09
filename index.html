@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Robot Bobby Threejs Template</title>
+    <style>
+      body {
+        margin: 0;
+      }
+    </style>
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.131/build/three.module.js",
+          "jsm/": "https://cdn.jsdelivr.net/npm/three@0.131/examples/jsm/"
+        }
+      }
+    </script>
+    <!-- 
+      The importmap here defines module path aliases for easier imports in the JavaScript.
+      It maps 'three' to the Three.js module URL and 'jsm/' to the Three.js examples modules.
+      This allows for cleaner import statements in the scripts.
+    -->
+  </head>
+  <body>
+    <!-- 
+      The main entry point of the application is 'index.js', which initializes the 3D scene,
+      sets up the camera, renderer, controls, and handles the animation loop.
+    -->
+    <script type="module" src="index.js"></script>
+  </body>
+</html>
