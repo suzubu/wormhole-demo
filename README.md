@@ -54,7 +54,6 @@ open index.html  # or use VSCode Live Server
 ## 📚 Inspiration / Credits
 
 Inspired by:
-- Animated spline demos by [Yusuke Hasegawa](https://ykob.dev/)
 - The iconic warp tunnel effect used in sci-fi visualizations
 - Classic `TubeGeometry` and shader-driven Three.js playgrounds
 
