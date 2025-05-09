@@ -96,5 +96,5 @@ MIT — use it, remix it, fly through it ✨
 
 ## 🙋‍♀️ Author
 
-Made with ☕ + 🎧 by [Suzy Dev](https://github.com/suzydev)  
+Made with ☕ + 🎧 by [suzubu](https://github.com/suzubu)
 Enjoy the ride through the wormhole!
